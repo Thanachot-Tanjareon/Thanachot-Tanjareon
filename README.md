@@ -28,5 +28,9 @@ I'm still learning, still experimenting and probably still debugging something r
 # Education
 - Eastern Technological College, Chonburi Thailand (2026 - 2028) in Higher Vocational Certificate - Information Technology
 
+# Career Goal
+I'm aiming for a Junior web developer role at Digital Work Co., Ltd. where I can use my programming skills to build practical
+software, solve problems, and keep learning.
+
 # CONTACTS
 - :e-mail: thanachot2549.orther@gmail.com
